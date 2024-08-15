@@ -1,4 +1,4 @@
-/*notes for us */
+/*notes for us
 
 
 body {
@@ -14,8 +14,8 @@ body {
   padding: 10px;
 }
 
-/* Header */
-header {
+/* Header 
+.header {
   text-align: center;
   padding: 10px 0;
 }
@@ -28,7 +28,7 @@ header {
 }
 
 .logo img {
-  width: 30px; /* the fireplace thingy aka Small logo size for mobile */
+  width: 30px; /* the fireplace thingy aka Small logo size for mobile 
   vertical-align: middle;
 }
 
@@ -40,7 +40,7 @@ header {
 }
 
 .we-come-to-you img {
-  width: 100%; /* we haveee  too adjust image size and also the minmium so it stops shrinking */
+  width: 100%; /* we haveee  too adjust image size and also the minmium so it stops shrinking 
   margin-bottom: 10px;
 }
 
@@ -62,9 +62,9 @@ header {
   color: #333;
 }
 
-/* Footer */
+/* Footer 
 footer {
-  background-color: #e0e0e0; /* Light grey background */
+  background-color: #e0e0e0; /* Light grey background 
   padding: 20px;
   text-align: center;
   border-radius: 8px;
@@ -76,7 +76,7 @@ footer .contact-info {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  gap: 3px; /* Adds space between the text elements */
+  gap: 3px; /* Adds space between the text elements 
 }
 
 footer .contact-info p {

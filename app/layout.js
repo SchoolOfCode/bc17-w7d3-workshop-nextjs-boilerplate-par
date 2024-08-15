@@ -14,8 +14,8 @@ export default function RootLayout({ children }) {
       <body className={aleo.className}>
         <Header/>
         {children}
-        <footer>sdfghj</footer>
-        </body>
+        <footer></footer>
+      </body>
     </html>
   );
 }

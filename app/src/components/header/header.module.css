@@ -1,4 +1,4 @@
-.header {
+.Title {
     text-align: center;
     padding: 10px 0;
   }
@@ -6,6 +6,7 @@
   .header_image{
     max-width: 100%;
   }
+  
   .howItWorks {
     max-width: 100%;
   }
